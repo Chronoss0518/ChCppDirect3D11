@@ -1,0 +1,15 @@
+[submodule "ChCppBaseLibrary"]
+	path = ChCppBaseLibrary
+	url = https://github.com/Chronoss0518/ChCppBaseLibrary
+[submodule "ChCppWinLibrary"]
+	path = ChCppWinLibrary
+	url = https://github.com/Chronoss0518/ChCppWinLibrary
+[submodule "ChCppDirect3DLibrary"]
+	path = ChCppDirect3DLibrary
+	url = https://github.com/Chronoss0518/ChCppDirect3DLibrary
+[submodule "ChCppD3D11Library"]
+	path = ChCppD3D11Library
+	url = https://github.com/Chronoss0518/ChCppD3D11Library
+[submodule "ChCpp_External_DirectXTex"]
+	path = ChCpp_External_DirectXTex
+	url = https://github.com/Chronoss0518/ChCpp_External_DirectXTex
